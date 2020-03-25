@@ -1,0 +1,49 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 20,
+    "workbench.colorTheme": "Huacat Pink Theme",
+    "markdown.preview.fontFamily": "/Users/mohsen/Library/Fonts/FiraCode-Regular.otf",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorCustomizations": {
+    "activityBar.background": "#E1A692",
+    "activityBar.foreground" : "#FA634D",
+    "activityBar.hoverBackground": "#FA634D",
+    "activityBar.border": "#202124",
+    "activityBar.dropBackground": "#202124",
+    "activityBar.inactiveForeground": "#FCDBCB",
+
+    "activityBarBadge.background": "#FA634D",
+    "activityBarBadge.foreground": "#ffd2bc",
+    
+    "activityBar.activeBorder": "#FA634D",
+    "activityBar.activeBackground": "#F5E1DA",
+    "activityBar.activeFocusBorder": "#202124",
+    
+    "contrastBorder":"#F5E1DA",
+
+    "focusBorder":"#202124",
+    
+    "foreground":"#505c7e",
+
+    "widget.shadow": "#202124",
+
+    "selection.background": "#FFA68A",
+    
+    "icon.foreground": "#b64a4a",
+
+    "window.activeBorder": "#FFFE95",
+    "window.inactiveBorder": "#FA634D",
+
+    "textBlockQuote.backgroun": "#FCDBCB",
+    "textLink.foreground": "#FA634D",
+    "textCodeBlock.background": "#00ffd5",
+    "textPreformat.foreground": "#00ffd5",
+    "textSeparator.foreground": "#00ffd5",
+
+    "button.background":"#E1A692",
+    "button.hoverBackground":"#FFA68A",
+    
+    
+    }
+}
