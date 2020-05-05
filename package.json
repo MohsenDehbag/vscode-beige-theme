@@ -1,0 +1,22 @@
+{
+    "name": "beige",
+    "displayName": "Beige",
+    "description": "VsCode beige light theme which wont hurt eyes.",
+    "publisher": "sadtech",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "beige theme",
+                "uiTheme": "vs",
+                "path": "./themes/beige theme-color-theme.json"
+            }
+        ]
+    }
+}
