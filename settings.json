@@ -121,22 +121,16 @@
     "editor.lineHighlightBackground":"#505c7e0a",
 
     "editor.lineHighlightBorder": "#fa644d69",
-    
     "editorWhitespace.foreground": "#D7886D",
-    
     "editor.renderIndentGuides": true,
-
     "editorBracketMatch.border":"#FA634D",
-    
     "editorError.foreground": "#bd0505",
     "editorGutter.background": "#f3dad0",
-
     "panel.background": "#F5E1DA",
     "panel.border": "#F5E1DA",
     "peekViewEditor.background": "#0000008c",
     "panel.dropBackground": "#0000008c",
     "panelTitle.activeBorder": "#FA634D",
-
     "terminal.background" : "#F5E1DA",
     "terminal.border": "#F5E1DA",
     "terminal.foreground": "#505C7E",
@@ -158,11 +152,9 @@
     "terminal.selectionBackground": "#FFB0AD",
     "terminalCursor.background": "#00e1ff",
     "terminalCursor.foreground": "#505C7E",
-
     "welcomePage.background": "#F9E0D9",
     "welcomePage.buttonBackground": "#F9E0D9",
     "welcomePage.buttonHoverBackground": "#FFA68A",   
-
     "settings.headerForeground": "#d85440",
     "settings.modifiedItemIndicator": "#E1A692",
     "settings.dropdownBackground": "#FFFED2",
@@ -178,23 +170,19 @@
     "settings.numberInputBackground": "#FFFED2",
     "settings.numberInputForeground": "#505C7E",
     "settings.numberInputBorder": "#5cb930",
-
     "breadcrumb.activeSelectionForeground": "#FA634D",
     "breadcrumb.background": "#FCDBCB",
     "breadcrumb.foreground": "#505C7E",
     "breadcrumb.focusForeground": "#FA634D",
     "breadcrumbPicker.background": "#505C7E",
-    
     "debugToolBar.background": "#FCDBCB",
     "debugToolBar.border": "#FFA68A",
     "editor.stackFrameHighlightBackground":"#FCDBCB",
     "editor.focusedStackFrameHighlightBackground": "#FCDBCB",
-
     "pickerGroup.border": "#FCDBCB",
     "pickerGroup.foreground": "#FCDBCB",
     "quickInput.background": "#FCDBCB",
     "quickInput.foreground": "#505C7E",
-
     "extensionButton.prominentForeground": "#FAF4EB",
     "extensionButton.prominentBackground": "#E1A692",
     "extensionButton.prominentHoverBackground": "#FFA68A",
@@ -246,8 +234,6 @@
     "statusBarItem.prominentHoverBackground": "#F9E0D9",
     "statusBarItem.remoteBackground": "#F9E0D9",
     "statusBarItem.remoteForeground": "#505C7E",
-
     "imagePreview.border": "#FA634D",
-
     }
 }
