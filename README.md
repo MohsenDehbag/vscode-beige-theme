@@ -1,10 +1,10 @@
-![](/Users/mohsen/beige/images/header.png)
+![](https://github.com/MohsenDehbag/vscode-beige-theme/blob/master/images/header.png)
 
 
 ## Vs Code Beige Theme
 A Theme made by light schemes except it wont fuck your eyes up. I made it when i had a lot of presantations This semester and i didnt want to change my theme to light for presantaions and visiablity and dark for my ease of use when im alone. Hope You like it. =))((
 
-![](/Users/mohsen/beige/images/envioement.png)
+![](https://github.com/MohsenDehbag/vscode-beige-theme/blob/master/images/envioement.png)
 
 ## How to install
 
@@ -15,7 +15,7 @@ A Theme made by light schemes except it wont fuck your eyes up. I made it when i
 ## Materials
 ### Colors
 
-![](/Users/mohsen/beige/images/palatepng.png)
+![](https://github.com/MohsenDehbag/vscode-beige-theme/blob/master/images/palatepng.png)
 
 #FFFED2
 
