@@ -1,8 +1,58 @@
-<html>
-<head>
+![](/Users/mohsen/beige/images/header.png)
 
-</head>
-<body class='typora-export' >
-<div  id='write'  class = 'is-mac'><h1><a name="google-chrome-beige-theme" class="md-header-anchor"></a><span>Google Chrome Beige Theme</span></h1><p><span>A chrome browser theme which matches with </span><a href='https://github.com/MohsenDehbag/vscode-beige-theme'><span>vscode-beige-theme</span></a><span> and it doesn&#39;t hurt eye even though its light appliance.</span></p><h2><a name="getting-started" class="md-header-anchor"></a><span>Getting Started</span></h2><p><span>Install the theme quicly with the link</span></p><p><a href='https://www.themebeta.com/chrome/theme/1359990' target='_blank' class='url'>https://www.themebeta.com/chrome/theme/1359990</a></p><p>&nbsp;</p><h2><a name="how-to-install" class="md-header-anchor"></a><span>How to install </span></h2><p><a href='https://www.themebeta.com/install-theme-chrome-75'><span>Click here to learn how to install chrom theme after downloading it.</span></a></p><p>&nbsp;</p><h2><a name="running-the-tests" class="md-header-anchor"></a><span>Running the tests</span></h2><p><span>if you had a </span><code>crx_reqired_proof_is_missing</code><span> with the installation read </span><a href='https://stackoverflow.com/questions/56930454/chrome-extension-throws-crx-file-error-crx-requird-proof-missing'><span>this</span></a><span> </span></p><h4><a name="and-thats-it-hope-you-like-it-as-much-as-i-do-" class="md-header-anchor"></a><span>And thats it. Hope you like it as much as I do. =)</span></h4><p>&nbsp;</p></div>
-</body>
-</html>
+
+## Vs Code Beige Theme
+A Theme made by light schemes except it wont fuck your eyes up. I made it when i had a lot of presantations This semester and i didnt want to change my theme to light for presantaions and visiablity and dark for my ease of use when im alone. Hope You like it. =))((
+
+![](/Users/mohsen/beige/images/envioement.png)
+
+## How to install
+
+* You can Download The file by searching beige in the market place.
+* How to [install](https://github.com/eamodio/vscode-gitlens/wiki/Installing-Prereleases-(vsix)) .vsix file 
+* You can also find the settings.json which you can copy and paste the code in your settings [.json](https://github.com/MohsenDehbag/vscode-beige-theme/blob/master/settings.json) file.
+
+## Materials
+### Colors
+
+![](/Users/mohsen/beige/images/palatepng.png)
+
+#FFFED2
+
+#FAF4EB
+
+#F5E1DA
+
+#FCDBCB
+
+#E3AB9A
+
+#E1A692
+
+#FFA68A
+
+#D7886D
+
+#FA634D
+
+#FFB0AD
+
+#D9DEFC
+
+#505C7E
+
+### Font
+
+I haven't included a font in this release as I know that it's a very personal preference. The font I use (that is seen in the image above) is [Fira Code](https://github.com/tonsky/FiraCode), which I recommend if you're a fan of ligatures.
+
+### IF YOU HAD ANY PROBLEMS WITH IT...
+
+... Just email me mohsendehbag@gmail.com  =>
+
+### Used Sources
+
+Git Icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+Header Image is From [PicsArt](https://picsart.com/i/image-use-for-304149221169201) By [loverjeon](https://picsart.com/u/loverjeon)
+
+Made with <3
